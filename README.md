@@ -137,4 +137,4 @@ Abra um Pull Request.
 Licença
 Este projeto está licenciado sob a MIT License.
 Contato
-Para dúvidas ou sugestões, entre em contato via seu-email@example.com ou abra uma issue no GitHub.
+Para dúvidas ou sugestões, entre em contato via arierap@gmail.com ou abra uma issue no GitHub.
